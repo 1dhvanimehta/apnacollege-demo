@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository.
 <br>
-author - Dhvani mehta 
+author - Dhvani mehta (apna college)
